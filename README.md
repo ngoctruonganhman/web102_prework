@@ -25,8 +25,12 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/a/3fzroxR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://github.com/ngoctruonganhman/web102_prework/assets/74084535/d0407af9-8f69-4f38-a0c3-c908ad0671c7
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with KAP.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
